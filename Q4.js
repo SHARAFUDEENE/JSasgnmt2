@@ -9,4 +9,4 @@ for (let i=1;i<=limit;i++){
         sum+=i
     }
 }
-console.log(sum);
+console.log("Sum of odd Numbers:",sum);
